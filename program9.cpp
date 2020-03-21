@@ -12,7 +12,7 @@
 // Student ID: R968Z269 
 // Assignment Number: 9
 // Description: Vector Calc. 
-// Last Changed: November 08, 2015 
+// Last Changed: November 08, 2019 
 // Extra Credit!!!!!!!!!!!!!!!!!!!!!!! plx, k thx :P
 using namespace std;
 struct Vector
