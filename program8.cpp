@@ -15,7 +15,7 @@ using namespace std;
 // Description: Rain Calc
 // Last Changed: November 04, 2015 
 // modified: 3/21/20    
-const int WEEKS = 12;
+const int WEEKS = 1;
 
 
 //searches array
