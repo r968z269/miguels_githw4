@@ -11,11 +11,12 @@ using namespace std;
 // File Name: program8.cpp 
 // Author: Miguel Angel Lopez 
 // Student ID: R968Z269 
-// Assignment Number: ate
+// Assignment Number: eight
 // Description: Rain Calc
-// Last Changed: November 04, 2015 
-// modified: 3/21/20    
-const int WEEKS = 1;
+// Last Changed: November 04, 2020 
+    
+const int WEEKS = 10;
+
 
 
 //searches array
