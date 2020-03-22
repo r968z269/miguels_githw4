@@ -13,7 +13,7 @@ using namespace std;
 // Student ID: R968Z269 
 // Assignment Number: 8
 // Description: Rain Calc
-// Last Changed: November 04, 2015 
+// Last Changed: November 04, 2020 
     
 const int WEEKS = 12;
 
