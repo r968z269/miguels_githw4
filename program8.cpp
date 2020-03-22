@@ -11,7 +11,7 @@ using namespace std;
 // File Name: program8.cpp 
 // Author: Miguel Angel Lopez 
 // Student ID: R968Z269 
-// Assignment Number: 8
+// Assignment Number: ate
 // Description: Rain Calc
 // Last Changed: November 04, 2015 
 // modified: 3/21/20    
